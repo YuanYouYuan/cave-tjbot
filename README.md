@@ -29,5 +29,23 @@ sudo apt-get nodejs
 sudo apt-get install espeak
 ```
 
+## Clone this project
+
+```sh
+git clone https://github.com/YuanYouYuan/cave-tjbot.git
+```
+
+## Install node dependencies
+
+```sh
+npm install
+```
+
+## Run the sample code
+
+```sh
+sudo node tjdemo-google.js
+```
+
 
 
