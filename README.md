@@ -23,4 +23,11 @@ curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get nodejs
 ```
 
+## To run tjdemo-espeak.js, you may need to install espeak first.
+
+```sh
+sudo apt-get install espeak
+```
+
+
 
