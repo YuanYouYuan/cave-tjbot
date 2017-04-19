@@ -29,6 +29,13 @@ sudo apt-get install nodejs
 sudo apt-get install espeak
 ```
 
+## Tune audio volume
+
+```sh
+alsamixer
+```
+
+
 ## Clone this project
 
 ```sh
