@@ -22,7 +22,7 @@
 
 ### System Installation
 
-The following steps are applicable on three main computer OS: Linux, macOS, Windows
+The following steps are applicable on three main computer OS: Linux, macOS and Windows.
 
 1. Download the latest image of [Raspian](https://www.raspberrypi.org/downloads/raspbian/).
 2. Download the latest [Etcher](https://etcher.io/) to burn the image.
@@ -44,7 +44,7 @@ sudo apt-get dist-upgrade
 ```sh
 sudo raspi-config
 ```
-"7 Advanced Options" -> "A4 Aduio" -> "1 Force 3.5mm ('headphone') jack" -> "Ok"
+7 Advanced Options -> A4 Aduio -> 1 Force 3.5mm ('headphone') jack -> Ok
 
 3. Install nodejs on RPi
 
@@ -110,7 +110,7 @@ ex.
 
 Install [Bluemix CLI(Cloud Foundry)](https://clis.ng.bluemix.net/ui/home.html)
 
-Open the terminal in your computer(Command Promt for Windows users).
+Open the terminal in your computer(Command Prompt for Windows users).
 
 ```sh
 cf login -a https://api.ng.bluemix.net
