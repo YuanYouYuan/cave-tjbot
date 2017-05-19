@@ -147,3 +147,6 @@ nano config.js
 sudo node tjdemo-google.js
 ```
 
+## Scheme
+
+![](./pic/tjbot-scheme.png)
