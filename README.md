@@ -122,11 +122,11 @@ cf servic-key my-stt-service my-stt-key
 
 ## Usage 
 
-1. Clone this project and change the working diretory into it.
+1. Clone this project and change the working diretory into src.
 
 ```sh
 git clone https://github.com/YuanYouYuan/cave-tjbot.git
-cd cave-tjbot
+cd cave-tjbot/src
 ```
 
 2. Install node dependencies
